@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mayank",
+      "username": "Mayank",
+      "email": "mayank1997@gmail.com",
+      "phone": "9354617054",
+      "website": "mayank.org"
+    },
+    {
+      "id": 2,
+      "name": "Girish N.V",
+      "username": "girish",
+      "email": "girish1997@gmail.com",
+      "phone": "9354617354",
+      "website": "girish.org"
+    }
+  ]
+}
